@@ -1,7 +1,9 @@
 FillerCreepForAndroid
 =====================
 
-A Game that Attempts to Demo MVC for Android
+Game that Attempts to Demo MVC for Android
+
+Blah blagggggggg
 
 License
 =======
